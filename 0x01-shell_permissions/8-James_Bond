@@ -1,2 +1,2 @@
 #!/bin/bash
-ug-rwx,o+rwx
+ug-rwx,o+rwx hello
