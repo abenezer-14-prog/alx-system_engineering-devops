@@ -1,2 +1,1 @@
-#!/bin/bash homes
 cut -d: -f 1.6 /etc/passwd | sort homes
